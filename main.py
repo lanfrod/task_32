@@ -7,5 +7,5 @@ a, b = input("Укажите катеты прямоуг. треуг. через
 print("Гипотенуза ", math_func.hipot(float(a), float(b)))
 
 
-
+#it can be smth important for new version
 
